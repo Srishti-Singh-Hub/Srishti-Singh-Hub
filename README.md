@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srishti-Singh-Hub.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Analysis.
-- 💞️ I’m looking to collaborate on Data Analysis Projects.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning HTML, CSS & JAVA SCRIPT.
+- 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me... Email: ssrishti140@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love experimenting with new recipes and am a self-proclaimed foodie.
